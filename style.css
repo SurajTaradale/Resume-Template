@@ -1,0 +1,76 @@
+
+  .div1{
+      
+    background: linear-gradient(to top right, #66ccff 0%, #0066ff 100%); width: 100%; height: 432px;
+     width: 100%;
+     height: 155px;
+  }
+  .table{
+      border: 50px;
+      
+  }
+  .div1_1{
+      font-size: 20px;
+     
+    margin-left: 10px;
+      float: left;
+      
+  }
+  .div1_3{
+      color: lightyellow;
+      margin-top: 50px;
+      margin-left: 200px;
+      float: left;
+      align-content: center;
+  }
+  .div1_2{
+      
+      margin-top: 5px;
+      float: left;
+      margin-left: 500px;
+  }
+  
+  .div2_1{
+    background: ghostwhite;
+      float: left;
+      width: 20%;
+      height: 420px;
+  }
+  .div2_2{
+      
+      width: 80%;
+      height: 420px;
+     float: left;
+}
+  
+  .btn1, .btn2, .btn3, .btn4{
+      font-size: 20px;
+      background-color:honeydew;
+      border: ghostwhite;
+      border: 2px outset ;
+      margin-top: 15px;
+      width: 270px;
+      height: 50px;
+      
+  }
+  .btn1:hover{background: linear-gradient(to top, #66ccff 0%, #0066ff 100%);color: white;}
+  .btn2:hover{background: linear-gradient(to top, #66ccff 0%, #0066ff 100%);color: white;}
+  .btn3:hover{background: linear-gradient(to top, #66ccff 0%, #0066ff 100%);color: white;}
+  .btn4:hover{background: linear-gradient(to top, #66ccff 0%, #0066ff 100%);color: white;}
+  #heading,#heading1{
+      margin-left: 15px;
+      margin-right: 15px;
+    background-color:  gainsboro;
+  }
+  #content,#content1,#content2,#content3,#content4{
+        margin-left: 15px;
+        font-size: 20px;
+  }
+  .div3{
+      
+      float: left;
+      width: 100%;
+      height: 50px;
+      color: blanchedalmond;
+        background-color: black;
+  }
